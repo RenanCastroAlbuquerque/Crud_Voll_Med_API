@@ -17,13 +17,7 @@ A aplicação permite realizar operações de **CRUD** (*Create, Read, Update e 
 Atualmente, o projeto conta com funcionalidades relacionadas ao gerenciamento de médicos e pacientes, como:
 
 * 👨‍⚕️ Cadastro de médicos
-* 👨‍⚕️ Consulta de médicos
-* ✏️ Atualização de informações
-* 🗑️ Exclusão de médicos
 * 🧑‍🤝‍🧑 Cadastro de pacientes
-* 🔎 Consulta de pacientes
-* ✏️ Atualização de informações
-* 🗑️ Exclusão de pacientes
 
 > As funcionalidades serão atualizadas conforme o desenvolvimento do projeto.
 
